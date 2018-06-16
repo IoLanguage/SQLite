@@ -1,0 +1,15 @@
+{
+  "name":         "SQLite",
+  "version":      "0.1",
+  "description":  "SQLite provides a embedded simple and fast (2x faster than PostgreSQL or MySQL) SQL database.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["SQLite"],
+  "dependencies": {
+    "libs":     ["sqlite"],
+    "headers":  ["sqlite.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
