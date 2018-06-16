@@ -1,4 +1,6 @@
 # SQLite 
+> NOTE: Deprecated. Use [SQLite3](https://github.com/IoLanguage/SQLite3) instead.
+
 SQLite provides a embedded simple and fast (2x faster than PostgreSQL or MySQL) SQL database. See http://www.hwaci.com/sw/sqlite/ for details. It's SQL command set is described at http://www.hwaci.com/sw/sqlite/lang.html. SQLite was written by Dr. Richard Hipp who offers consulting services for custom modifications and support of SQLite. Example:
 ```Io
 db := SQLite clone
